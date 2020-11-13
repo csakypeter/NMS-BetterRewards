@@ -11,7 +11,13 @@ Every patch have 4 versions:
 - BetterRewardsNoWR: Everything that the main mod has to offer minus Words and Resources increase
 
 If you want to use lua files included, you have to have AMUMSS to build a mod with them.
-AMUMSS: https://www.nexusmods.com/nomanssky/mods/957
+
+I created a little guide for AMUMSS and lua files:
+The guide: https://i.imgur.com/VRRkzXB.png
+
+Links for the guide
+- AMUMSS mod page: https://www.nexusmods.com/nomanssky/mods/957
+- Notepad++: https://notepad-plus-plus.org/downloads/
 
 ----------------------------------------------------------------------------------------------------------
 Better Rewards increases the amount of units, nanite clusters and quicksilver you get from completing missions or interacting with objects in the world. Non npc word learning (such as knowledge stones, monoliths and dictionaries) is also faster.
@@ -21,10 +27,10 @@ Currency
 Currency gain is roughly increased by 5 times, so as to make it a viable option besides crafting and selling valuable tradeables. Some unit values were tremendously increased (eg.: from minimum amount of 1000-2000 to 20000-50000) like the terminals in abandoned settlements to make the early game less grindy.
 
 Includes:
-Space station missions and Nexus missions
-Interactable objects/devices (abandoned buildings, damaged machinery, waypoints, etc.)
-Sentinels
-Alien interactions
+- Space station missions and Nexus missions
+- Interactable objects/devices (abandoned buildings, damaged machinery, waypoints, etc.)
+- Sentinels
+- Alien interactions
 
 Words
 
