@@ -44,8 +44,12 @@ Also includes containers, depots, guild rewards, asteroids and ships that drop r
 
 Installation
 
-Make sure you delete or edit DISABLEMODS.TXT in your game library (...\Steam\steamapps\common\No Man's Sky\GAMEDATA\PCBANKS) before trying to use mods.
-Extract the zip file to ...\Steam\steamapps\common\No Man's Sky\GAMEDATA\PCBANKS\MODS folder and you are good to go (Create MODS folder if you don't have one).
+Make sure you delete or edit DISABLEMODS.TXT in your game library:
+...\Steam\steamapps\common\No Man's Sky\GAMEDATA\PCBANKS
+before trying to use mods.
+Extract the zip file to
+...\Steam\steamapps\common\No Man's Sky\GAMEDATA\PCBANKS\MODS
+folder and you are good to go (Create MODS folder if you don't have one).
 Alternatively you can just use Vortex to download and install.
 
 This mod modifies the REWARDTABLE.MBIN and EXPEDITIONREWARDTABLE.MBIN file and will not work with other mods that use those tables.
