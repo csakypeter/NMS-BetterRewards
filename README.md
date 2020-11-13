@@ -12,8 +12,7 @@ Every patch have 4 versions:
 
 If you want to use lua files included, you have to have AMUMSS to build a mod with them.
 
-I created a little guide for AMUMSS and lua files:
-The guide: https://i.imgur.com/VRRkzXB.png
+I created a little guide for AMUMSS and lua files: https://i.imgur.com/VRRkzXB.png
 
 Links for the guide
 - AMUMSS mod page: https://www.nexusmods.com/nomanssky/mods/957
