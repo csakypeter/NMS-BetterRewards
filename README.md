@@ -20,7 +20,7 @@ Links for the guide
 
 ----------------------------------------------------------------------------------------------------------
 Better Rewards increases the amount of units, nanite clusters and quicksilver you get from completing missions or interacting with objects in the world.
-Non npc word learning (such as knowledge stones, monoliths and dictionaries) is also faster.
+Non npc word learning (such as knowledge stones, monoliths and dictionaries) is also faster. Frigate (Freighter) Expeditions are also included now with a separate mod! 
 
 **Currency**
 
