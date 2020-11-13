@@ -22,7 +22,7 @@ Links for the guide
 Better Rewards increases the amount of units, nanite clusters and quicksilver you get from completing missions or interacting with objects in the world.
 Non npc word learning (such as knowledge stones, monoliths and dictionaries) is also faster.
 
-Currency
+**Currency**
 
 Currency gain is roughly increased by 5 times, so as to make it a viable option besides crafting and selling valuable tradeables.
 Some unit values were tremendously increased (eg.: from minimum amount of 1000-2000 to 20000-50000) like the terminals in abandoned settlements to make the early game less grindy.
@@ -33,16 +33,16 @@ Includes:
 - Sentinels
 - Alien interactions
 
-Words
+**Words**
 
 Learning words from non npc interactions (knowledge stones, monoliths, plaques and dictionaries) is also 3 times faster (3 words learned form a single knowledge stone).
 
-Resources
+**Resources**
 
 When gathering with the mining beam you generally get 3 times more resources (but only when the things explode as you mine them).
 Also includes containers, depots, guild rewards, asteroids and ships that drop resources.
 
-Installation
+**Installation**
 
 Make sure you delete or edit DISABLEMODS.TXT in your game library (...\Steam\steamapps\common\No Man's Sky\GAMEDATA\PCBANKS) before trying to use mods.
 Extract the zip file to (...\Steam\steamapps\common\No Man's Sky\GAMEDATA\PCBANKS\MODS) folder and you are good to go (Create MODS folder if you don't have one).
@@ -51,7 +51,7 @@ Alternatively you can just use Vortex to download and install.
 
 This mod modifies the REWARDTABLE.MBIN and EXPEDITIONREWARDTABLE.MBIN file and will not work with other mods that use those tables.
 
-Changelog
+**Changelog**
 
 - 3.10: Halloween updates reverted (Quicksilver from Derelict Freighters)
 - 3.05: Origins hotfix + some items/changes added
@@ -64,4 +64,4 @@ Changelog
 - 1.0.1: Reverted fugitive starship rewards until fix
 - 1.0: Initial release
 
-Updated to NMS version 3.10 on 2020.11.13
+*Updated to NMS version 3.10 on 2020.11.13*
